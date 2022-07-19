@@ -1,3 +1,4 @@
-h1 {
-    color: red;
-}
+body {
+    background : url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg") no-repeat center center fixed;
+    background-color: black;
+   }
