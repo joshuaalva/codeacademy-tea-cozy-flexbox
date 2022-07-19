@@ -3,11 +3,17 @@ body {
     background-color: black;
 }
 
+.logo {
+    margin-left: 10px;
+    height: 50px;
+}
+
 .background-text {
+    text-align: center;
     background-color: black;
     color: seashell;
-    text-align: center;
 }
+
 
 
 
