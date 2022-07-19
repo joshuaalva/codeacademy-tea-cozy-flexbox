@@ -1,4 +1,14 @@
 body {
     background : url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg") no-repeat center center fixed;
     background-color: black;
-   }
+}
+
+.background-text {
+    background-color: black;
+    color: seashell;
+    text-align: center;
+}
+
+
+
+
